@@ -1,0 +1,16 @@
+=== SMS Spam – Résultats test ===
+Accuracy : 0.9874
+F1 (classe spam) : 0.9490
+ROC AUC : 0.9967
+
+=== Classification report ===
+              precision    recall  f1-score   support
+
+         ham      0.992     0.993     0.993       904
+        spam      0.953     0.945     0.949       128
+
+    accuracy                          0.987      1032
+   macro avg      0.973     0.969     0.971      1032
+weighted avg      0.987     0.987     0.987      1032
+
+Matrice de confusion enregistrée : reports/confusion_matrix.csv

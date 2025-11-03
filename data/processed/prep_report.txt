@@ -1,0 +1,15 @@
+Nombre total de lignes : 5158
+Distribution des classes :
+label
+ham     4516
+spam     642
+
+Longueur des messages (en caractères) :
+count    5158.000000
+mean       78.783249
+std        58.189675
+min         2.000000
+25%        36.000000
+50%        60.000000
+75%       116.000000
+max       910.000000
