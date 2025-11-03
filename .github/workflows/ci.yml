@@ -35,6 +35,12 @@ jobs:
           spam,WIN a brand new iPhone! Call now
           ham,On se voit demain à 10h
           spam,URGENT! Call this number to claim your prize
+          ham,Bonjour, tu es dispo pour un call ?
+          spam,Free entry in 2 a weekly competition! Text WIN to 80086
+          ham,Merci pour ton message, à plus
+          spam,You have won $1000 cash! Reply YES now
+          ham,Peux-tu m'envoyer le document ?
+          spam,Exclusive offer just for you! Click the link now
           EOF
 
       - name: Run unit tests with coverage
